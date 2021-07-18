@@ -40,9 +40,9 @@ If you want to change the background color of the application you can change the
 
 'self.configure(background='#7C83FD')' on line 16.
 
-This calculator only takes in *one operator* at a time, meaning that if you continuously click the operators for numerous times,
+This calculator only takes in **one operator** at a time, meaning that if you continuously click the operators for numerous times,
 
-the *first* operator clicked will be used for computing the result (upon clicking '=').
+the **first** operator clicked will be used for computing the result (upon clicking '=').
 
 ## Room for Improvement
 I would like to implement percentage, the availability of decimal, and unary plus minus.
