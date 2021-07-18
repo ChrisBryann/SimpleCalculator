@@ -12,7 +12,7 @@
 * [License](#license)
 
 ## General Information
-- This project was made to for testing Python Tkinter's GUI.
+- This project was made to test Python Tkinter's GUI.
 - It's a simple calculator that solves basic operations.
 - I made this project during Summer 2021 and was interested in making an application mixed with mathematics.
 
