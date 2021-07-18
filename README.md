@@ -2,10 +2,11 @@
 > A classic calculator built using Python Tkinter's GUI Library
 
 ## Table of Contents
-* [General Info] (#general-information)
-* [Features] (#features)
-* [Project Status] (#project-status)
+* [General Info](#general-information)
+* [Features](#features)
+* [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
+* [Personal Notes](#personal-notes)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 * [License](#license)
